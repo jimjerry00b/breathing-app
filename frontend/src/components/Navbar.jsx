@@ -60,6 +60,7 @@ export default function Navbar() {
     }
     setIsMenuOpen(false);
   };
+  
 
   return (
     <>
